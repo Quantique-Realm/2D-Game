@@ -7,9 +7,11 @@ The character idle animation and walking animation has been made.
 All the assets in this game is Self Made.
 <br>Obstacles in the game are Falling Platforms,Cannons and Spikes.</br>
 <br>This Game consists of Three Levels with smooth transition effect including start screen and end game screen.</br>
-
+Level 1
 ![Level1](https://github.com/Quantique-Realm/2D-Game/assets/75321824/c4029f12-89ad-4710-ae14-b676b560a3f1)
+Level 2
 ![Level2](https://github.com/Quantique-Realm/2D-Game/assets/75321824/e089ee5c-545d-4c61-b390-555682ac6ab4)
+Level 3
 ![Level3](https://github.com/Quantique-Realm/2D-Game/assets/75321824/6bcffe25-cb93-47ad-aa56-e00da8879811)
 
 TO PLAY THE GAME-

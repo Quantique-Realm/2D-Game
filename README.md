@@ -17,3 +17,5 @@ Level 3
 TO PLAY THE GAME-
 itch.io link:
 https://abhiraj-kumar.itch.io/2d-platformer-game
+(or)
+You can download the files above and import it to unity to inspect the game.
